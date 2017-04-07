@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\scastellote\Desktop\proyectosDev\Groceries\platforms\android\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="C:\Users\scastellote\Desktop\proyectosDev\Groceries\platforms\android\build\intermediates\pre-dexed\F0\debug\com.android.support-appcompat-v7-25.3.1_0633423f0ca4f3bdc6a1b0d46fade64638111f9f.jar" />
+    </item>
+    <item
+        jar="C:\Users\scastellote\Desktop\proyectosDev\Groceries\platforms\android\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="C:\Users\scastellote\Desktop\proyectosDev\Groceries\platforms\android\build\intermediates\pre-dexed\F0\debug\com.android.support-support-core-ui-25.3.1_bebd88d0d8d3920b43e4fe924760ae5e8773b485.jar" />
+    </item>
+    <item
+        jar="C:\Users\scastellote\Desktop\proyectosDev\Groceries\platforms\android\build\intermediates\exploded-aar\com.android.support\support-compat\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="C:\Users\scastellote\Desktop\proyectosDev\Groceries\platforms\android\build\intermediates\pre-dexed\F0\debug\com.android.support-support-compat-25.3.1_35a401547da2e6671b626094a0c45685e53bfcfb.jar" />
+    </item>
+    <item
+        jar="C:\Users\scastellote\Desktop\proyectosDev\Groceries\platforms\android\build\intermediates\exploded-aar\com.android.support\support-v4\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\scastellote\Desktop\proyectosDev\Groceries\platforms\android\build\intermediates\pre-dexed\F0\debug\com.android.support-support-v4-25.3.1_c563aec5cc6186db74b1b0fb78ab7596aae0b95f.jar" />
+    </item>
+    <item
+        jar="C:\Users\scastellote\Desktop\proyectosDev\Groceries\platforms\android\build\intermediates\exploded-aar\widgets-release\jars\classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="8a73b09319cc3945912970487ced4c7724acc97d">
+        <dex dex="C:\Users\scastellote\Desktop\proyectosDev\Groceries\platforms\android\build\intermediates\pre-dexed\F0\debug\intermediates-exploded-aar-widgets-release_ca074c51d2885588b232e0a352747e3373d35766.jar" />
+    </item>
+    <item
+        jar="C:\Users\scastellote\Desktop\proyectosDev\Groceries\platforms\android\build\intermediates\exploded-aar\Groceries\runtime\unspecified\jars\libs\binding-generator.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="d82f3ca98719f09b65db6aeaf450ad3bafc46e81">
+        <dex dex="C:\Users\scastellote\Desktop\proyectosDev\Groceries\platforms\android\build\intermediates\pre-dexed\F0\debug\binding-generator_ee1e69138ea50b1deace85175b3aefacf2530706.jar" />
+    </item>
+    <item
+        jar="C:\Users\scastellote\Desktop\proyectosDev\Groceries\platforms\android\build\intermediates\exploded-aar\com.android.support\support-fragment\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="C:\Users\scastellote\Desktop\proyectosDev\Groceries\platforms\android\build\intermediates\pre-dexed\F0\debug\com.android.support-support-fragment-25.3.1_5bf3a7c9faf366469308d362247145c1396a464b.jar" />
+    </item>
+    <item
+        jar="C:\Users\scastellote\Desktop\proyectosDev\Groceries\platforms\android\build\intermediates\exploded-aar\Groceries\runtime\unspecified\jars\classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="632bf39700c28ba66c117628dab343126ef89551">
+        <dex dex="C:\Users\scastellote\Desktop\proyectosDev\Groceries\platforms\android\build\intermediates\pre-dexed\F0\debug\Groceries-runtime-unspecified_50e31a9d999dc0f0ea8c8c300bebc927aac47c8b.jar" />
+    </item>
+    <item
+        jar="C:\Users\scastellote\Desktop\proyectosDev\Groceries\platforms\android\build\intermediates\exploded-aar\com.android.support\transition\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="d4cf6227dd6a2ceff0f7dcf0c324380b7abf2c28">
+        <dex dex="C:\Users\scastellote\Desktop\proyectosDev\Groceries\platforms\android\build\intermediates\pre-dexed\F0\debug\com.android.support-transition-25.3.1_959a57e5c8571e94aac1dce3f36fc4115caa9f5e.jar" />
+    </item>
+    <item
+        jar="C:\Users\scastellote\Desktop\proyectosDev\Groceries\platforms\android\build\intermediates\exploded-aar\com.android.support\design\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="38789e20ace9ab7dbd00554bd2673ab424478d3b">
+        <dex dex="C:\Users\scastellote\Desktop\proyectosDev\Groceries\platforms\android\build\intermediates\pre-dexed\F0\debug\com.android.support-design-25.3.1_f719359c807ec3c1961508f6d5288a1fc95aba1d.jar" />
+    </item>
+    <item
+        jar="C:\Users\scastellote\Desktop\proyectosDev\Groceries\platforms\android\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="C:\Users\scastellote\Desktop\proyectosDev\Groceries\platforms\android\build\intermediates\pre-dexed\F0\debug\com.android.support-support-media-compat-25.3.1_0d777d96af04ee8df7d1924c53b44b9fa3e23943.jar" />
+    </item>
+    <item
+        jar="C:\Users\scastellote\Desktop\proyectosDev\Groceries\platforms\android\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="C:\Users\scastellote\Desktop\proyectosDev\Groceries\platforms\android\build\intermediates\pre-dexed\F0\debug\com.android.support-animated-vector-drawable-25.3.1_1966f6f83176e989fe5c0eded90b56447e253e2f.jar" />
+    </item>
+    <item
+        jar="C:\Users\scastellote\Desktop\proyectosDev\Groceries\platforms\android\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="C:\Users\scastellote\Desktop\proyectosDev\Groceries\platforms\android\build\intermediates\pre-dexed\F0\debug\com.android.support-support-core-utils-25.3.1_ab75aa8dfeb8fc8fc5e9f7c1c84c4f44db1b7960.jar" />
+    </item>
+    <item
+        jar="C:\Android\android-sdk\extras\android\m2repository\com\android\support\support-annotations\25.3.1\support-annotations-25.3.1.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="C:\Users\scastellote\Desktop\proyectosDev\Groceries\platforms\android\build\intermediates\pre-dexed\F0\debug\support-annotations-25.3.1_07cc1bdab6386cc71ca9e51c0b2d242e9420314e.jar" />
+    </item>
+    <item
+        jar="C:\Users\scastellote\Desktop\proyectosDev\Groceries\platforms\android\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="C:\Users\scastellote\Desktop\proyectosDev\Groceries\platforms\android\build\intermediates\pre-dexed\F0\debug\com.android.support-support-vector-drawable-25.3.1_749f7262c17b98cffc88bebde94df373162a371a.jar" />
+    </item>
+    <item
+        jar="C:\Users\scastellote\Desktop\proyectosDev\Groceries\platforms\android\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="95519720620b553f63afc789beba9ad582807f7c">
+        <dex dex="C:\Users\scastellote\Desktop\proyectosDev\Groceries\platforms\android\build\intermediates\pre-dexed\F0\debug\com.android.support-recyclerview-v7-25.3.1_bd774f10d408461abdba3dfd987ddcf096d16af7.jar" />
+    </item>
+
+</items>
